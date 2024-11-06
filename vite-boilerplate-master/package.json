@@ -24,6 +24,7 @@
     "typescript": "^5.0.2",
     "vite": "^4.4.2"
   },
+  "engines":{"node": "20.18.0"},
   "keywords": [],
   "author": "",
   "license": "ISC"
